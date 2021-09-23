@@ -1,0 +1,60 @@
+.nav-link{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.hovblack:hover{
+    color: white;
+    padding: auto;
+}
+.novblack{
+    color:#746565;
+}
+
+.logoutbt{
+    margin-left: 900px;
+}
+.nav-link-btn{
+    margin-top: 0px;
+}
+#nav-link-login{
+    margin-left:800px ;
+}
+#mpsm{
+    color:white;
+    font-family: serif;
+    font-weight: 400;
+}
+#jum{
+    margin-left: 40px;
+}
+.jumbotran{
+    font-family: serif;
+}
+
+
+.bt{
+    padding-left: 100px;
+}
+.tecl{
+    color:#D0CCCC ;
+    text-decoration: none;
+}
+.tecl:hover{
+    color: white;
+    text-decoration: none;
+}
+
+.lostyle{
+    color: red;
+    margin-left: 20px;
+    font-family: serif;
+}
+
+.na{
+    margin-left: 25px;
+    margin-top: 10px;
+}
+
+.nab{
+    margin-left: 25px;
+    }

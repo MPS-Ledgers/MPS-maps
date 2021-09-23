@@ -1,0 +1,60 @@
+.foot{
+    font-family: serif;
+    color:white;
+    background-color:#212529;
+    display: flex;
+    flex-direction: column;
+}
+
+.login-form{
+    width: 100%;
+    max-width: 650px;
+    padding: 15px;
+    margin: auto;
+    color: whitesmoke;
+    font-family: serif;
+    max-height: 280px;
+}
+.bgshade{
+    background:linear-gradient(
+        rgba(0, 0, 0, 0.7), 
+        rgba(0, 0, 0, 0.7)
+      );
+}
+.jum{
+    margin-top: 20px;
+    padding: 50px;
+}
+.lgp{
+    color:white;
+    text-shadow: -1px 1px 0 black ,
+    1px -1px 0 black,
+    1px -1px 0 black,
+    -1px 1px 0 black;
+}
+.btnncl{
+    margin-top: 15px;
+    margin-left: 215px;
+    color:white;
+}
+.lgpp{
+    text-shadow: -1px 1px 0 #000,
+    1px 1px 0 #000,
+    1px -1px 0 #000,
+    -1px -1px 0 #000;
+}
+
+.linlog{
+    color: white;
+    text-decoration: none;
+}
+.fp{
+    color: white;
+}
+.reg{
+    color: white;
+}
+
+.fp:hover{
+    color: red;
+}

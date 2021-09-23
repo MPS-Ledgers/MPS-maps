@@ -1,0 +1,7 @@
+body{
+  height: 89.8vh;
+  min-height: 200px;
+  background: no-repeat center center scroll;
+  background-image: url('./images/traffic2.jpg');
+  background-size: cover;
+  }

@@ -1,0 +1,35 @@
+.repo{
+    color: white;
+    font-family:serif;
+    margin-left: 375px;
+    padding: 5px;
+}
+
+.lab{
+    color: white;
+    font-family: serif;
+}
+
+.pa{
+    color: white;
+    padding: 5px;
+}
+
+.bgshade{
+    background:linear-gradient(
+        rgba(0, 0, 0, 0.7), 
+        rgba(0, 0, 0, 0.7)
+      );
+      min-height: 400px;
+}
+
+.btrh{
+    margin-left: 700px;
+}
+
+.hosp{
+    color:white;
+    margin-left: 50px;
+    margin-top: 50px;
+    font-family: serif;
+}

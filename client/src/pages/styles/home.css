@@ -1,0 +1,32 @@
+#mpsm{
+    color:white;
+    font-family: serif;
+    font-weight: 400;
+    text-shadow: -1px 1px 0 #000,
+    1px 1px 0 #000,
+    1px -1px 0 #000,
+    -1px -1px 0 #000;
+}
+
+#jum{
+    margin-left: 40px;
+}
+.jumbotran{
+    font-family: serif;
+}
+
+
+.bt{
+    padding-left: 100px;
+}
+
+
+.foot{
+    margin-top: 250px;
+    font-family: serif;
+    color:white;
+    background-color:#212529;
+    display: flex;
+    flex-direction: column;
+    min-height: 200px;
+}

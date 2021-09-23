@@ -1,0 +1,22 @@
+.main-footer{
+    color: white;
+    background-color: #343a40;
+    position: relative;
+    bottom: 0;
+    font-family: serif;
+}
+.li-con{
+    color:white;
+    text-decoration: none;
+}
+.pa{
+    margin-left: 350px;
+}
+
+.li-con:hover{
+    color: white;
+}
+
+.container{
+    margin-left: 170px;
+}
