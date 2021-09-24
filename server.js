@@ -17,6 +17,7 @@ app.use(express.urlencoded({extended:true}))
 //Private Pages
 app.use('/api/private',require('./routers/private'))
 app.use('/api/traffic',require('./routers/traffic'))
+app.use('/api/emergency',require('./routers/emergency'))
 app.use(errorHandler)
 const PORT=process.env.PORT || 5000
 
