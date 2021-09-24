@@ -7,7 +7,7 @@ import 'mapbox-gl/dist/mapbox-gl.css'
 import MapboxDirections from '@mapbox/mapbox-gl-directions/dist/mapbox-gl-directions'
 import '@mapbox/mapbox-gl-directions/dist/mapbox-gl-directions.css'
 import  './styles/maps.css'
-mapboxgl.accessToken = "pk.eyJ1IjoiaWFtbW9uaWVzaDIwOCIsImEiOiJja3RpOTV0aTIwemlzMm9udTNoY2F4YXY2In0.bLr25gpTuI9Z525EL8zkRA"
+mapboxgl.accessToken = process.env.React_App_MAP_BOX_TOKEN
 let longitude,latitude
 const Maps=()=>{
     const mapContainer = useRef(null)
