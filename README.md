@@ -7,7 +7,7 @@ Its Weather section gives real-time weather and local visibility conditions duri
 It send alerts to MPS Control i.e. Nearest Hospital & Nearest Police Station when an accident is reported as an immediate response.
 Also, users get the best directions to their desired destinations and also about the various incidents(traffic, roadworks,accidents) on the nearby roads to take their route accordingly.
 
-#How to run?
+# How to run?
 To run this application: <br/></br>
 1)Install Nodejs in your system <br/>
 2)Download the sourcecode from the github <br/>
