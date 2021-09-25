@@ -75,8 +75,6 @@ const Traffic = () => {
                             }
                             }
                         data2.push(plt2)
-                        console.log(plt2)
-                        
                     }
                     data3={
                         'type': 'FeatureCollection',
