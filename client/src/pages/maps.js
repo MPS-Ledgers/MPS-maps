@@ -33,7 +33,9 @@ const Maps=()=>{
         <>
             <Navi isLoggedIn={true}/>
             <div ref={mapContainer} id="map"></div>
-            <Footer/>
+            <div className="foot1">
+                <Footer/>
+            </div>
         </>
     )
 }

@@ -40,11 +40,6 @@ const Navi=(props)=>{
                     Traffic
                     </Link>
                 </Nav.Item>
-                <Nav.Item className="hovblack na">
-                    <Link className="tecl" to="/" onClick={clickHandler}>
-                    About&nbsp;Us
-                    </Link>
-                </Nav.Item>
                 <Nav.Item className="nav-link-btn nab" id="nav-link-login">
                     <Link to="/login">
                     <Button className="btn btn-primary">Login</Button>
@@ -81,11 +76,6 @@ const Navi=(props)=>{
             <Nav.Item className="hovblack na">
                 <Link className="tecl" to="/private/traffic">
                 Traffic
-                </Link>
-            </Nav.Item>
-            <Nav.Item className="hovblack na">
-                <Link className="tecl" to="/about">
-                About&nbsp;Us
                 </Link>
             </Nav.Item>
             <Nav.Item className="nav-link-btn logoutbt">
