@@ -13,5 +13,5 @@ To run this application: <br/>
 3)Create two terminals one for frontend => Client Side and another terminal for backend => Server Side <br/>
 4)In the terminal run the command npm init and npm install to get all the node modules and depedencies. <br/>
 5)In the server terminal, run the command npm run server to start the server <br/>
-6)In the client terminal, change directory to client directory using CD and then run the command npm start v
+6)In the client terminal, change directory to client directory using CD and then run the command <strong>npm start</strong> <br/>
 7)You will be automatically redirected to localhost:3000 site in your default web browser. <br/>
